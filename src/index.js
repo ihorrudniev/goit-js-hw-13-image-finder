@@ -2,7 +2,7 @@
 import { getPictures } from './js/apiService';
 import { refs } from './js/refs.js';
 import templateCard from './templates/templateCard.hbs';
-import data from 'browsersList';
+// import data from 'browserslist';
 import { alert, error } from '../node_modules/@pnotify/core/dist/PNotify.js';
 import '@pnotify/core/dist/BrightTheme.css';
 import * as basicLightbox from 'basiclightbox';
